@@ -1,0 +1,10 @@
+# Java
+*.class
+/out/
+/bin/
+.classpath
+.project
+.settings/
+ECHO is on.
+# Runtime data
+scores.csv
