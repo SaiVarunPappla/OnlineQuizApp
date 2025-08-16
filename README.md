@@ -33,10 +33,10 @@ java QuizApp
 
 ### 3) Screenshots (add yours) ###
 
-![output](assests/output1.png)
-![output](assests/output2.png)
-![output](assests/output3.png)
-![output](assests/output4.png)
+![output](assets/output1.png)
+![output](assets/output2.png)
+![output](assets/output3.png)
+![output](assets/output4.png)
 
 
 ## Sample Questions Covered ##
@@ -54,3 +54,4 @@ java QuizApp
 
 ## .gitignore ##
 - Excludes compiled .class files and local scores.csv.
+
